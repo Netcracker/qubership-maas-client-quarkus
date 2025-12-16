@@ -32,7 +32,7 @@
 		<quarkus.version>3.27.1</quarkus.version>
 		<quarkus.core.extention.version>8.0.2</quarkus.core.extention.version>
 
-		<cloud-core.maas-client.version>11.2.5</cloud-core.maas-client.version>
+		<cloud-core.maas-client.version>11.2.6</cloud-core.maas-client.version>
 
 		<surefire-plugin.version>3.5.4</surefire-plugin.version>
 		<lombok.version>1.18.26</lombok.version>
